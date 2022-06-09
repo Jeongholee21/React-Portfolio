@@ -40,9 +40,6 @@ function Header({ page, setPage }) {
                     </li>
                 </ul>
                 <img></img>
-                <div className="subtitle">
-                    <p> </p>
-                </div>
             </header>
         </div>
     )
