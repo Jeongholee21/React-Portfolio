@@ -12,8 +12,10 @@ To install necessary depedencies, run the following command :
   **npm install (react)**
 
 ## LIVE WEBSITE
+https://lee-react-portfolio.herokuapp.com/
 
 ## Screenshot
+![Screenshot](https://github.com/Jeongholee21/react-portfolio/blob/main/src/styles/images/screenshot.png)
 
 ## User Story
 ```
